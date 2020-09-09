@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hw16/static/css/main.97b33c5e.chunk.css",
+    "main.js": "/hw16/static/js/main.f0463a07.chunk.js",
+    "main.js.map": "/hw16/static/js/main.f0463a07.chunk.js.map",
+    "runtime-main.js": "/hw16/static/js/runtime-main.1c6d2d5a.js",
+    "runtime-main.js.map": "/hw16/static/js/runtime-main.1c6d2d5a.js.map",
+    "static/js/2.aa533778.chunk.js": "/hw16/static/js/2.aa533778.chunk.js",
+    "static/js/2.aa533778.chunk.js.map": "/hw16/static/js/2.aa533778.chunk.js.map",
+    "index.html": "/hw16/index.html",
+    "precache-manifest.d671719ee796c8622ab708fd55d6e62a.js": "/hw16/precache-manifest.d671719ee796c8622ab708fd55d6e62a.js",
+    "service-worker.js": "/hw16/service-worker.js",
+    "static/css/main.97b33c5e.chunk.css.map": "/hw16/static/css/main.97b33c5e.chunk.css.map",
+    "static/js/2.aa533778.chunk.js.LICENSE.txt": "/hw16/static/js/2.aa533778.chunk.js.LICENSE.txt",
+    "static/media/female-icon.jpg": "/hw16/static/media/female-icon.321b22fe.jpg",
+    "static/media/male-icon.jpg": "/hw16/static/media/male-icon.592396bc.jpg",
+    "static/media/unknown.png": "/hw16/static/media/unknown.ab7f36c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c6d2d5a.js",
+    "static/js/2.aa533778.chunk.js",
+    "static/css/main.97b33c5e.chunk.css",
+    "static/js/main.f0463a07.chunk.js"
+  ]
+}
